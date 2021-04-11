@@ -71,8 +71,6 @@ footer a {
   background-position: center;
   position: relative;
 }
-/* Hero Style End */
-
 /* Form Style Start */
 
 .hero-form {
@@ -111,6 +109,8 @@ footer a {
   padding: 10px 20px;
   font-size: 16px;
 }
+/* Form Styles End */
+/* Hero Styles End */
 
 section {
   padding: 60px;
