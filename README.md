@@ -14,4 +14,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 
-Made with :heart: by Bryan Perez
+Made with ❤️ by Bryan Perez
+
+### ©️2019 Run Buddy, Inc
